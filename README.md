@@ -3,8 +3,8 @@
 ## 🔭 Backend Developer specializing in LLM & Automation
 
 - 🤖 Building AI-powered automation tools with Python/Django
-- 🌱 Learning FastAPI, AsyncIO, Web 3.0
-- 💬 Interested in LLM Agents, Workflow Automation, Blockchain
+- 🌱 Currently building: FastAPI + LangChain 기반 에이전트 시스템
+- 💬 Focus: LLM Integration, Workflow Automation, Python Backend
 - 📫 Contact: hoyong0511@naver.com
 
 ## 🚀 Featured Projects
