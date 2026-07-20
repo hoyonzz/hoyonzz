@@ -13,7 +13,6 @@ Python · Django · FastAPI 기반의 백엔드와 LLM(LangChain·LangGraph) 파
 |---|---|---|
 | [Aiuto](https://github.com/hoyonzz/Aiuto) | 자연어 입력을 Notion 정형 레코드로 자동 변환·적재하는 LLM 비서 서비스 | Python, Django, Gemini API, PostgreSQL |
 | [web-crawler](https://github.com/hoyonzz/web-crawler) | 룰 기반 1차 + LLM 2차 분석의 2-Step 채용공고 ETL 파이프라인 (130회+ 무중단 자동 실행) | Python, Selenium, GitHub Actions, Gemini API |
-| [IronMan-Quant-Bot-V3](https://github.com/hoyonzz/IronMan-Quant-Bot-V3) | LLM이 시스템 룰을 동적으로 정의하는 4-Pillars MSA 퀀트 데이터 레이크 (설계) | FastAPI, PostgreSQL, Docker Compose, Gemini API |
 | [LLM_AI_Agent](https://github.com/hoyonzz/LLM_AI_Agent) | RAG(ChromaDB·Embeddings)·LangGraph 에이전트 구현 학습 기록 | LangChain, LangGraph, ChromaDB, OpenAI API |
 | [Running-mate](https://github.com/ormi3-2-4/Backend) | 위치 기반 러닝 커뮤니티 — 백엔드 API·인프라 배포 전담 (4인 팀) | Django REST Framework, MySQL, AWS, Nginx |
 
