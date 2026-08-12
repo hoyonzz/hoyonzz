@@ -1,11 +1,11 @@
 # 안녕하세요, 신호용입니다 👋
 
 **자연어를 정형 데이터로 바꾸는 파이프라인을 만들고 운영하는 백엔드 개발자입니다.**
-Python · Django · FastAPI 기반의 백엔드와 LLM(LangChain·LangGraph) 파이프라인을 직접 설계하고, 배포하고, 운영합니다.
+Python · Django · FastAPI 기반의 백엔드와 LLM(LangChain) 파이프라인을 직접 설계하고, 배포하고, 운영합니다.
 
 - ⚙️ GitHub Actions 기반 서버리스 ETL 파이프라인 **130회+ 에러 없는 무중단 자동 실행** 운영 (2025)
-- 🤖 LLM 비서 서비스 **Aiuto**를 0→1로 기획·개발·배포 — 현재 LangGraph 기반 V2 개편 진행 중
-- 📈 실시간 퀀트 시스템을 비동기(Asyncio)·RDBMS 체제로 마이그레이션, **V3 MSA 데이터 레이크 아키텍처 설계**
+- 🤖 LLM 비서 서비스 **Aiuto**를 현재 FastAPI·Celery 기반 비동기 아키텍처로 V2 재설계 진행 중
+- 📊 크롤러 파이프라인 949건 백필 처리 — 구조화 출력 실패 8건(0.8%) 전량 자동 재처리
 
 ## 📂 Projects
 
