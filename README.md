@@ -18,7 +18,7 @@ Python · Django · FastAPI 기반 백엔드와 LLM 파이프라인을 직접 �
 
 ## 🛠 Tech Stack
 
-`Python` `Django` `Django REST Framework` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Celery` `Redis` `PostgreSQL` `MySQL` `LangChain` `LangGraph` `Google Gemini API` `Docker` `GitHub Actions` `AWS Lightsail` `Nginx`
+`Python` `Django` `Django REST Framework` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Celery` `Redis` `MySQL` `LangChain` `LangGraph` `Google Gemini API` `Docker` `GitHub Actions` `AWS Lightsail` `Nginx`
 
 ## 📫 Contact
 
